@@ -1,1 +1,6 @@
 olha ai mano minha primeira vez usando git 
+vou botar dois comando que quando de erro so colocar ai 
+git pull origin master --rebase
+git push origin master
+
+
