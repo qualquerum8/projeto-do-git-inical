@@ -6,3 +6,4 @@ numero_2 = int(input("agora digite mais outro ai meu chapa"))
 resultado = numero_1 + numero_2
 #mais abaixo fica o print(com o resltado)
 print(f"sua soma é {resultado}")
+print ("voce é muito burro para ta usando essa calculadoa")
